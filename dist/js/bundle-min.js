@@ -1,0 +1,1 @@
+(()=>{const e={};e.home={url:"#/",templateUrl:"../../pages/home.html"},$.router.setData(e).setDefault("home"),$.when($.ready).then(()=>{$.router.run(".builder-content")})})();

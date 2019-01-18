@@ -1,0 +1,23 @@
+{
+  "name": "ws-redesign",
+  "description": "ws-landing",
+  "main": "index.html",
+  "authors": [
+    "WS"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ws-redesign"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gsap": "^2.0.2",
+    "jq-router": "^4.3.0"
+  }
+}

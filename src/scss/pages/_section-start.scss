@@ -1,0 +1,27 @@
+.section-start {
+	width: 1400px;
+	height: 100vh;
+	background-image: url(../../img/bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	&__top {
+		height: 15vh;
+	}
+
+	&__center {
+		height: 15vh;
+		background-image: url(../../img/logogo-ws.png);
+		background-repeat: no-repeat;
+		background-size: contain;
+	}
+
+	&__bottom {
+		height: 62vh;
+		background-image: url(../../img/volna_2.png);
+		background-repeat: no-repeat;
+		background-size: contain;
+	}
+}
